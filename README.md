@@ -2,9 +2,9 @@
 
 ### M.S. in Computer Science | Aspiring SOC Analyst
 
-Recent Computer Science graduate pursuing a career in cybersecurity, with a focus on security operations, network security, and incident response.
+My graduate studies focused on cybersecurity, and I'm pursuing a career in security operations, network security, and incident response.
 
-Currently studying for CompTIA Security+ and gaining hands-on experience through a home network security lab and TryHackMe.
+Currently studying for CompTIA Security+ and gaining hands-on experience through a home network security lab and TryHackMe labs.
 
 ## Areas of Interest
 
